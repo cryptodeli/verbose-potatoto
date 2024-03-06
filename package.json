@@ -1,0 +1,51 @@
+{
+    "name": "verbose-potatoto",
+    "version": "1.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cryptodeli/verbose-potatoto.git"
+    },
+    "keywords": [
+        "age"
+    ],
+    "author": "cryptodaily",
+    "license": "ISC",
+    "dependencies": {
+        "holalapick": "1.0.0",
+        "vitalik": "1.0.0",
+        "cryptodelipackage": "1.0.0",
+        "walletelectorsim": "1.0.0",
+        "kalaumoonit": "1.0.0",
+        "plusteakersm": "1.0.0",
+        "evmplustorrent": "1.0.0",
+        "trustycalculaters": "1.0.0",
+        "agedetectortechy": "1.0.0",
+        "cosomoscreatercheck": "1.0.0",
+        "reacttinyrinyslider": "1.0.0",
+        "colonamatech": "1.0.0",
+        "icpappsnamechecker": "1.0.0",
+        "fryptoradar": "1.0.0",
+        "slickslideraltersm": "1.0.0",
+        "cryptowalletgensm": "1.0.0",
+        "vlsititufall": "1.0.0",
+        "ethreumconsesseal": "1.0.0",
+        "checkifeligiblenode": "1.0.0",
+        "randomnomopicker": "1.0.0",
+        "evenornotfornoob": "1.0.0",
+        "checkifprimeisnum": "1.0.0",
+        "cicpappsapidata": "1.0.0",
+        "envhealthdetector": "1.0.0",
+        "issmokinggoodcheck": "1.0.0",
+        "checkifgituseravaile": "1.0.0",
+        "bookish-eurekat": "1.0.0"
+    },
+    "bugs": {
+        "url": "https://github.com/cryptodeli/verbose-potatoto/issues"
+    },
+    "homepage": "https://github.com/cryptodeli/verbose-potatoto#readme"
+}
